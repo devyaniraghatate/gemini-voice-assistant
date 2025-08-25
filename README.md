@@ -36,7 +36,7 @@ This is a **voice assistant** built with **Streamlit** that uses **Google Gemini
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/gemini-voice-assistant.git
+git clone https://github.com/devyaniraghatate/gemini-voice-assistant.git
 cd gemini-voice-assistant
 ```
 ---
